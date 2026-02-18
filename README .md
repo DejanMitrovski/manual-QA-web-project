@@ -17,6 +17,12 @@ The tested application includes:
 - Cross-browser testing
 - Cross-device testing
 
+- ## What’s included
+
+- **Test Plan** – describes testing approach.
+- **TestCases/TestCases.xlsx** – 10 structured test cases with steps, expected results, and status.
+- **BugReports/BugReports.xlsx** – detailed bug reports with reproducible steps, severity & priority.
+
 ## Tools Used
 - Microsoft Excel
 - GitHub
