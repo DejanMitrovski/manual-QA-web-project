@@ -1,6 +1,6 @@
 # Manual QA Web Application Project
 
-This repository contains a manual QA testing project for a web-based application, created as an independent practice project to demonstrate junior-level QA skills.
+This repository contains a manual QA testing project for a web-based application, created as an independent practice project to demonstrate QA skills.
 
 ## Application Scope
 The tested application includes:
